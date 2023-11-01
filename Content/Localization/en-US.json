@@ -1,0 +1,26 @@
+{
+    "BuffDescription": {
+        "ChesterPet": "'Bui!'",
+    },
+    "BuffName": {
+        "ChesterPet": "Eevee",
+    },
+    "ItemName": {
+        "ChesterPetItem": "Bouncy Pokeball",
+    },
+    "ItemTooltip": {
+        "ChesterPetItem": "'It's leaking with fluffy energy.'",
+    },
+    "BuffDescription": {
+        "FennecFox": "'Bui!'",
+    },
+    "BuffName": {
+        "FennecFox": "Eevee",
+    },
+    "ItemName": {
+        "ExoticEasternChewToy": "Bouncy Pokeball",
+    },
+    "ItemTooltip": {
+        "ExoticEasternChewToy": "'It's leaking with fluffy energy.'",
+    }
+}
